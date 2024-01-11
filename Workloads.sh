@@ -1,4 +1,4 @@
-githubOraganizationName='BBIDBoston'
+githubOrganizationName='BBIDBoston'
 githubRepositoryName='toy-website-workflow'
 
 applicationRegistrationDetails=$(az ad app create --display-name 'toy-website-workflow-boston')
